@@ -2,19 +2,6 @@
 
 '''
 描述：案例-基于多项式贝叶斯的增量学习的文本分类
-时间：2017-12-1
-作者：宋天龙（Tony Song）
-程序开发环境：win 64位
-Python版本：64位 3.6.3（使用Anaconda安装）
-python IDE：PyCharm
-依赖库：re、tarfile、os、numpy、bs4、sklearn
-程序输入：article.txt、news_data.tar.gz
-程序输出：打印输出18个主题及新文本的预测主题归属
-注意：Python的工作目录当前文件夹目录，如果不是请使用如下方法切换：
-    点击PyCharm底部调试栏中的Python Console，如果按照本书的正常安装部署会调用iPython交互窗口；在打开的交互环境中输入cd [路径]。
-    例如，在windows环境下输入：
-    cd D:\4_附件\chapter8
-
 '''
 
 # 导入库
